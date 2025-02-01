@@ -25,9 +25,17 @@ In analyzing any data, the first and the most important aspect is to carefully, 
 ### About the Dataset:
 The dataset used for this project was of a three (3) different table data structure that was used for this analysis. Each of these dataset table structure brief information is outlined below 
 Three datasets were used for analysis:
-1.	**Movie Box Office Data-:** Contains a total record of 423 (Before Cleaning/Analysis) and 8 fields including; movie details, box office revenue, production budget, genre, etc.
-2.	**Audience Demographics Data–:** Contains a total record of 501(Before Cleaning/Analysis) and has 6 fields namely audience age, gender, ratings, and preferred viewing platforms.
-3.	**Critical Reviews Data –:** This dataset contains a total record of 401(__Before Cleaning/Analysis__) and has 6 fields which comprise of critic ratings, sources, review scores, etc.
+1.	**Movie Box Office Data-:** Contains a total record of 423 (_Before Cleaning/Analysis_) and 8 fields including; movie details, box office revenue, production budget, genre, etc.
+Here is a Snapshot of the raw dataset.
+
+<p align="center">
+  <img width="650" height="450" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%201.png">
+</p>
+  
+4.	Click [here](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/movie_box_office_data.csv) to access to the dataset
+5.	**Audience Demographics Data–:** Contains a total record of 501(_Before Cleaning/Analysis_) and has 6 fields namely audience age, gender, ratings, and preferred viewing platforms. Click [here](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/audience_demographics_data.csv)  to access to the dataset
+6.	**Critical Reviews Data –:** This dataset contains a total record of 401(___Before Cleaning/Analysis___) and has 6 fields which comprise of critic ratings, sources, review scores, etc.[here](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/critical_reviews_data.csv)  to access to the dataset
+
 Each dataset required cleaning due to issues like missing values, inconsistent formatting, duplicate entries, and typos.
 
 Here is a Snapshot of the raw dataset.
