@@ -24,26 +24,37 @@ In analyzing any data, the first and the most important aspect is to carefully, 
 
 ### About the Dataset:
 The dataset used for this project was of a three (3) different table data structure that was used for this analysis. Each of these dataset table structure brief information is outlined below 
+
 Three datasets were used for analysis:
+
 1.	**Movie Box Office Data-:** Contains a total record of 423 (_Before Cleaning/Analysis_) and 8 fields including; movie details, box office revenue, production budget, genre, etc.
 Here is a Snapshot of the raw dataset.
 
 <p align="center">
-  <img width="650" height="450" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%201.png">
+  <img width="624" height="622" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%201.png">
 </p>
   
-4.	Click [here](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/movie_box_office_data.csv) to access to the dataset
-5.	**Audience Demographics Data–:** Contains a total record of 501(_Before Cleaning/Analysis_) and has 6 fields namely audience age, gender, ratings, and preferred viewing platforms. Click [here](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/audience_demographics_data.csv)  to access to the dataset
-6.	**Critical Reviews Data –:** This dataset contains a total record of 401(___Before Cleaning/Analysis___) and has 6 fields which comprise of critic ratings, sources, review scores, etc.[here](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/critical_reviews_data.csv)  to access to the dataset
+Click [here](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/movie_box_office_data.csv) to access to the dataset
 
-Each dataset required cleaning due to issues like missing values, inconsistent formatting, duplicate entries, and typos.
+   
+2. **Audience Demographics Data–:** Contains a total record of 501(_Before Cleaning/Analysis_) and has 6 fields namely audience age, gender, ratings, and preferred viewing platforms.
 
-Here is a Snapshot of the raw dataset.
 <p align="center">
-  <img width="650" height="450" src="https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Snapshot.png">
+  <img width="612" height="864" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%202.png">
+</p>
+  
+Click [here](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/audience_demographics_data.csv) to access to the dataset
+
+3. **Critical Reviews Data –:** This dataset contains a total record of 401(___Before Cleaning/Analysis___) and has 6 fields which comprise of critic ratings, sources, review scores, etc.
+
+<p align="center">
+  <img width="624" height="717" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%203.png">
 </p>
 
-IMAGE!!!
+Click [here](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/critical_reviews_data.csv)  to access to the dataset
+
+Each dataset required cleaning due to issues like _missing values_, _inconsistent formatting_, _duplicate entries_, and _typos_.
+
 
 ## Problem Statement
 Mr Emmanel Ehosa who is the manager at GlowStream Media has provided me with key questions to answer for my analysis. The answers to these questions are given birth of the problem statement and prospect that GlowStream intend to embark on which launch a new show. The answers to these questions will unlock a comprehensive insight into **trends and performance of blockbuster movies** from 2015-2023 based on the datasets provided. 
