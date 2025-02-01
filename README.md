@@ -72,65 +72,98 @@ Mr Emmanel Ehosa who is the manager at GlowStream Media has provided me with key
 
 ## Concepts/Skills Demonstrated
 The following Data Analysis Skill plus Excel features were incorporated during the run down of this project.
-•	Data Importation: Importing multiple data into Excel
-•	Data Cleaning (handling missing values, duplicates, formatting inconsistencies)
-•	Data Transformation (restructuring datasets for better analysis)
-•	Exploratory Data Analysis (EDA) (identifying trends, patterns, and anomalies)
-•	Data Visualization (charts and graphs for insights presentation)
-•	 Excel Pivot Table for Analysis
-•	 Excel Interactive Dashboard Design
+•	**Data Importation:** Importing multiple data into Excel
+•	**Data Cleaning** (handling missing values, duplicates, formatting inconsistencies)
+•	**Data Transformation** (restructuring datasets for better analysis)
+•	**Exploratory Data Analysis (EDA)** (identifying trends, patterns, and anomalies)
+•	**Data Visualization** (charts and graphs for insights presentation)
+•	 Excel **Pivot Table** for Analysis
+•	 Excel **Interactive Dashboard Design**
 
 ## Data Transformation/Cleaning
-The raw dataset that was used for this analysis project was extremely dirty in the sense that  it affects the data integrity and accuracy altogether. These datasets contain high level of inconsistencies, duplicates, missing values and formatting issues that has to be cleaned before processing.
+The raw dataset that was used for this analysis project was extremely dirty in the sense that  it affects the data integrity and accuracy altogether.
+These datasets contain high level of _inconsistencies_, _duplicates_, _missing values_ and _formatting issues_ that has to be cleaned before processing.
 
 For the **First Dataset** which **Movie Box Office Data** (Check the __**image below**__ for a snapshot of the unclean dataset)
-The **Underlying Issues** are: 
-•	Inconsistent currency formatting. 
-•	Typos in data entries (e.g., "20a7"). 
-•	Missing values for some fields. 
-•	Duplicate movie entries. 
-•	Blank spaces in names. 
 
+<p align="left">
+  <img width="624" height="622" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%201.png">
+</p>  
+<p align="left">
+  <img width="286" height="456" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%201-1.png">
+</p>
 
+The **Underlying Issues** are:
+-	Inconsistent currency formatting.
+-	Typos in data entries (e.g., "20a7").
+-	Missing values for some fields.
+-	Duplicate movie entries.
+-	Blank spaces in names.
+
+---
 
 For the **Second Dataset** which is **Audience Demographic Data** (Check the **_image below_** for a snapshot of the unclean dataset)
-The **Underlying Issues** are:
-•	Inconsistent gender labels (e.g., "M", "Male"). 
-•	Invalid Movie ID entries. 
-•	Missing values for age and rating. 
-•	Typos in Rating values. 
-•	Inconsistent viewing of platform names. 
+<p align="left">
+  <img width="612" height="864" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%202.png">
+</p>
+<p align="left">
+  <img width="335" height="316" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%202-1.png">
+</p>
 
+
+The **Underlying Issues** are:
+-	Inconsistent gender labels (e.g., "M", "Male"). 
+-	Invalid Movie ID entries. 
+-	Missing values for age and rating. 
+-	Typos in Rating values. 
+-	Inconsistent viewing of platform names. 
+
+---
 
 For the **Third Dataset Critical Reviews Data** (Check the **_image below_** for a snapshot of the unclean dataset)
-The Underlying Issues are:
-•	Inconsistent date formats. 
-•	Missing critic names. 
-•	Invalid dates (e.g., "2017-13-05"). 
-•	Missing or incorrect review scores. 
 
+<p align="left">
+  <img width="624" height="717" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%203.png">
+</p>
+<p align="left">
+  <img width="427" height="427" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dataset%203-1.png">
+</p>
+
+The Underlying Issues are:
+-	Inconsistent date formats. 
+-	Missing critic names. 
+-	Invalid dates (e.g., "2017-13-05"). 
+-	Missing or incorrect review scores. 
+
+---
 
 ## Data Cleaning Approach: 
 The dirty data with its inaccuracies CANNOT be used for analysis just like that. It has to undergo some level of cleaning for it to be fit for analysis.
 One of such approach to do this is using the Power Query Features in Excel. 
 
 Through Power Query, Key issues with each dataset was addressed:
-•	Standardized currency formatting in box office data
-•	Fixed incorrect data entries (e.g., ‘20a7’ → ‘2017’ in release year)
+-	Standardized currency formatting in box office data
+-	Fixed incorrect data entries (e.g., ‘20a7’ → ‘2017’ in release year)
 
-**IMAGE!!!**
+<p align="center">
+  <img width="624" height="375" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Cleaning%201.png">
+</p>
 
-•	Handled missing values with appropriate imputation methods-( One of such method I used was to replace missing numeric values with the mean/average of the column).
+-	Handled missing values with appropriate imputation methods-( One of such method I used was to replace missing numeric values with the mean/average of the column).
 For the categorical variables, for example, the missing values in **Gender**, **Directors** & **Lead Actor** were replaced with words like **“Others”**, **“Unknown”** respectively.
 
-**IMAGE!!!**
+<p align="left">
+  <img width="624" height="368" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Cleaning%202.png">
+</p>
 
-•	Removed duplicate entries
-•	Standardized audience demographics labels (‘M’, ‘Male’ → ‘Male’)
+-	Removed duplicate entries
+-	Standardized audience demographics labels (‘M’, ‘Male’ → ‘Male’)
 
-**IMAGE!!!**
+<p align="left">
+  <img width="624" height="331" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Cleaning%203.png">
+</p>
 
-•	Formatted inconsistent date formats
+-	Formatted inconsistent date formats
 
 ---
 
@@ -138,9 +171,9 @@ For the categorical variables, for example, the missing values in **Gender**, **
 
 Fundamentally, as a data analyst, a comprehensive understanding of each dataset shows that there is or should be a relationship between the three datasets.
 The datasets were structured in a relational format:
-•	Movie Box Office Data (Primary Key: Movie ID)
-•	Audience Demographics Data (Foreign Key: Movie ID)
-•	Critical Reviews Data (Foreign Key: Movie ID)
+-	Movie Box Office Data (Primary Key: Movie ID)
+-	Audience Demographics Data (Foreign Key: Movie ID)
+-	Critical Reviews Data (Foreign Key: Movie ID)
 The presence of these key columns as Primary and Foreign Key suggests a relationship and hence this was done through Power Pivot as shown in the image below.
 
 |                                              Original Model                                        |                                         After Modelling                                              |
@@ -162,9 +195,9 @@ The genres with the highest average box office revenue are **Drama**, **Horror**
 
 **3. Relationship Between Production Budgets and Box Office Revenue Over the Years**
 Over the years, most movies, regardless of genre, have shown potential for box office growth. This trend is evident in the graph below.
-•	The **blue curvy line** with white markers represents production budgets from 2015 to 2023.
-•	The **top curvy line** indicates box office revenue, showing a fluctuating increase over time.
-•	**2022 recorded the highest box office revenue growth**, reaching **$57 Billion**, making it the peak year in the observed period.
+-	The **blue curvy line** with white markers represents production budgets from 2015 to 2023.
+-	The **top curvy line** indicates box office revenue, showing a fluctuating increase over time.
+-	**2022 recorded the highest box office revenue growth**, reaching **$57 Billion**, making it the peak year in the observed period.
 
 _This suggests that as production budgets increase, box office earnings tend to rise, highlighting the financial impact of investment in filmmaking._
 
@@ -192,10 +225,10 @@ Over the years, most movies, regardless of genre, have shown potential for box o
 
 
 ## 6.	Popular View Platforms for Different Genres
-•	Romance is predominantly watched in cinemas, significantly more than other genres.
-•	Thrillers and Sci-Fi have high engagement on streaming platforms.
-•	Comedy and Action are frequently downloaded, with Action also having notable DVD viewership.
-•	Drama and Horror show a balanced distribution across all platforms.
+-	Romance is predominantly watched in cinemas, significantly more than other genres.
+-	Thrillers and Sci-Fi have high engagement on streaming platforms.
+-	Comedy and Action are frequently downloaded, with Action also having notable DVD viewership.
+-	Drama and Horror show a balanced distribution across all platforms.
 
 This suggests that audience preferences vary by genre, influencing distribution strategies GlowStream Media
 
