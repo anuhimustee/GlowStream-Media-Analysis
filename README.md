@@ -152,14 +152,14 @@ Through Power Query, Key issues with each dataset was addressed:
 -	Handled missing values with appropriate imputation methods-( One of such method I used was to replace missing numeric values with the mean/average of the column).
 For the categorical variables, for example, the missing values in **Gender**, **Directors** & **Lead Actor** were replaced with words like **“Others”**, **“Unknown”** respectively.
 
-<p align="left">
+<p align="center">
   <img width="624" height="368" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Cleaning%202.png">
 </p>
 
 -	Removed duplicate entries
 -	Standardized audience demographics labels (‘M’, ‘Male’ → ‘Male’)
 
-<p align="left">
+<p align="center">
   <img width="624" height="331" src="https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Cleaning%203.png">
 </p>
 
@@ -176,9 +176,9 @@ The datasets were structured in a relational format:
 -	Critical Reviews Data (Foreign Key: Movie ID)
 The presence of these key columns as Primary and Foreign Key suggests a relationship and hence this was done through Power Pivot as shown in the image below.
 
-|                                              Original Model                                        |                                         After Modelling                                              |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------- |
-| ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Initial%20Model.png) | ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/ModellingComplete.png) |
+|                                              Original Model                                           |                                         After Modelling                                               |
+|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------ |
+| ![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Model%201.png) | ![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Model%202.png) |
 
 
 
@@ -188,16 +188,23 @@ The data reveals that **“Agree Wide Easy”** and **“Total Maybe May”** ar
 
 **See the image below:**
 
+![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/P1.png)
+
+
 **2. Highest Average Box Office Revenue by Genre:**
 The genres with the highest average box office revenue are **Drama**, **Horror**, **Sci-Fi**, and **Romance**, in that order. This suggests that these genres attract larger audiences and generate higher ticket sales.
 
 **See the image below:**
+
+![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/P2.png)
 
 **3. Relationship Between Production Budgets and Box Office Revenue Over the Years**
 Over the years, most movies, regardless of genre, have shown potential for box office growth. This trend is evident in the graph below.
 -	The **blue curvy line** with white markers represents production budgets from 2015 to 2023.
 -	The **top curvy line** indicates box office revenue, showing a fluctuating increase over time.
 -	**2022 recorded the highest box office revenue growth**, reaching **$57 Billion**, making it the peak year in the observed period.
+
+![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/P8.png)
 
 _This suggests that as production budgets increase, box office earnings tend to rise, highlighting the financial impact of investment in filmmaking._
 
@@ -221,22 +228,32 @@ _This suggests that as production budgets increase, box office earnings tend to 
 
 ## 5. Box office performance trends over the years? 
 Over the years, most movies, regardless of genre, have shown potential for box office growth. This trend is evident in the graph below.
-2022 recorded the highest box office revenue growth, reaching $57 billion, making it the peak year in the observed period.
+2022 recorded the highest box office revenue growth, reaching **$57Billion**, making it the peak year in the observed period.
 
+![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/P9.png)
 
 ## 6.	Popular View Platforms for Different Genres
--	Romance is predominantly watched in cinemas, significantly more than other genres.
--	Thrillers and Sci-Fi have high engagement on streaming platforms.
--	Comedy and Action are frequently downloaded, with Action also having notable DVD viewership.
--	Drama and Horror show a balanced distribution across all platforms.
+-	**Romance** is predominantly watched in cinemas, significantly more than other genres.
+-	**Thrillers** and **Sci-Fi **have high engagement on streaming platforms.
+-	**Comedy** and **Action** are frequently downloaded, with Action also having notable DVD viewership.
+-	**Drama** and **Horror** show a balanced distribution across all platforms.
+
+![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/P6.png)
 
 This suggests that audience preferences vary by genre, influencing distribution strategies GlowStream Media
 
 ## 7.	Gender's Distribution by Genre?
 **Men** predominantly watches movies through the services of Glowstream than Woman. However,**Men** predominantly **Action,** **Drama**, and **Comedy**, while **Women** mostly prefer **Romance**, **Thrillers**, and Comedy. This indicates that Comedy appeals to both genders, whereas Action and Romance have more distinct audience preferences. Interestingly, both genders have an equal viewing count for the Horror genre.
 
+![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/P4.png)
+
+![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/P5.png)
+
 ## 8.	Directors Box Office Average
+
 The directors influence on revenue showed the top-grossing films can be linked to how well-known the directors were with their established reputations
+
+![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/P3.png)
 
 ---
 
@@ -245,8 +262,7 @@ The directors influence on revenue showed the top-grossing films can be linked t
 Based on the insights I will recommend the following to Glowstream Media;
 
 **1.	Content Strategy:** 
-- Gl
-- owStream should prioritize **Drama**, **Romance**, **Comedy**, & **Horror** as they generate the highest revenue and audience engagement
+- GlowStream should prioritize **Drama**, **Romance**, **Comedy**, & **Horror** as they generate the highest revenue and audience engagement
 - For each of these genre, Glowstream can target respective genders that shows a signifacent inclination toward their services. **Men** predominantly watch **Action**, **Drama**, and **Comedy**, while **"Women"** mostly prefer **Romance**, **Thrillers**, and **Comedy**. This indicates that Comedy appeals to both genders, whereas Action and Romance have more distinct audience preferences.
   
 **2.	Marketing Focus:**
