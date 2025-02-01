@@ -1,0 +1,401 @@
+Review ID,Movie ID,Critic Name,Review Score (1-100),Review Source,Date
+R001,288,,80.0,Film Daily,2019-01-21
+R002,081,Diana Vang,88.0,Screen Critics,2016-02-11
+R003,079,Jay Robbins,48.0,Film Daily,2019-12-04
+R004,213,Shawn Turner,,Movie Weekly,2020-08-30
+R005,088,,88.0,Movie Weekly,2022-06-16
+R006,126,Lorraine Doyle,66.0,Cinema Today,2019-10-23
+R007,212,Martha Rogers,100.0,Screen Critics,2019-01-21
+R008,016,Daniel Anderson,85.0,Screen Critics,2015-12-14
+R009,174,Samuel King,50.0,Movie Weekly,2017-13-05
+R010,339,Jordan Carson,76.0,Film Daily,2022-12-31
+R011,339,Aaron Meyers,66.0,Movie Weekly,2022-11-10
+R012,284,Jeremy Smith,60.0,The Reel View,2017-14-05
+R013,271,Kirsten Roberts,65.0,Movie Weekly,2021-02-07
+R014,320,William Dougherty,84.0,The Reel View,2023-10-07
+R015,333,James Woods,59.0,Film Daily,2017-14-05
+R016,200,Michael Robbins,48.0,Screen Critics,2018-03-08
+R017,110,,73.0,The Reel View,2016-10-17
+R018,012,,77.0,The Reel View,2023-09-06
+R019,156,Michael Rivera,47.0,Film Daily,2017-11-29
+R020,322,Wendy Colon,88.0,Film Daily,2021-06-02
+R021,378,,55.0,Screen Critics,2022-01-15
+R022,341,James Wagner,62.0,The Reel View,2023-10-20
+R023,367,Jonathan Harris,64.0,Screen Critics,2016-03-07
+R024,168,Lori Gonzalez,89.0,The Reel View,2016-08-23
+R025,365,Victor Rice,45.0,Film Daily,2016-06-16
+R026,244,Oscar Sims,,Screen Critics,2021-04-08
+R027,266,Monica Mullins,77.0,Movie Weekly,2019-12-08
+R028,353,James Torres,66.0,Cinema Today,2016-06-04
+R029,249,Juan Young,85.0,Screen Critics,2016-04-28
+R030,356,Diana Berger,87.0,Cinema Today,2019-02-21
+R031,061,Mary Kerr,47.0,The Reel View,2015-06-14
+R032,268,Alex Medina,63.0,The Reel View,2015-04-25
+R033,074,Carl Goodman,43.0,The Reel View,2017-06-02
+R034,094,Karina Smith,47.0,Screen Critics,2015-07-03
+R035,214,Donna Gardner,68.0,The Reel View,2020-04-30
+R036,369,Emily Ramirez,48.0,Screen Critics,2023-07-17
+R037,231,Madison Dunn,86.0,The Reel View,2017-15-05
+R038,341,Daniel Martin,97.0,Movie Weekly,2015-07-07
+R039,344,Heather Rice,81.0,Film Daily,2022-12-06
+R040,013,Benjamin Guzman,85.0,The Reel View,2016-05-22
+R041,330,Deanna Price,79.0,Screen Critics,2015-08-05
+R042,292,Jennifer Miller,72.0,Film Daily,2020-12-18
+R043,093,Andre Joyce,53.0,Cinema Today,2021-07-01
+R044,228,,60.0,Movie Weekly,2020-07-06
+R045,012,Gregory Logan,41.0,Screen Critics,2017-11-19
+R046,047,Jeffrey Pierce,,Cinema Today,2017-01-18
+R047,131,Daniel Anderson,100.0,Movie Weekly,2015-08-30
+R048,315,Michele Daniels,85.0,Film Daily,2016-02-09
+R049,164,William Williams,56.0,Movie Weekly,2016-05-10
+R050,027,Guy Gould,77.0,Cinema Today,2023-06-09
+R051,259,William Baker,43.0,The Reel View,2019-07-26
+R052,034,Kimberly Smith,54.0,Film Daily,2021-07-28
+R053,346,Ryan Robinson,81.0,Cinema Today,2019-07-25
+R054,229,,53.0,Cinema Today,2016-11-19
+R055,126,Jasmine Valdez,98.0,Screen Critics,2015-01-05
+R056,238,James Kirby,81.0,Cinema Today,2017-14-05
+R057,140,Robert Thompson,64.0,The Reel View,2017-05-21
+R058,300,Amber Norton,50.0,Screen Critics,2018-05-16
+R059,046,Elizabeth Hines,48.0,Screen Critics,2019-11-05
+R060,108,John Ayala,60.0,The Reel View,2023-06-11
+R061,363,Janice Blair,60.0,The Reel View,2021-09-21
+R062,169,,81.0,Film Daily,2015-01-18
+R063,005,Joseph Fox,97.0,Movie Weekly,2021-01-13
+R064,042,Austin Jacobson,44.0,Screen Critics,2017-15-05
+R065,228,Brendan Wilson,92.0,Movie Weekly,2019-01-06
+R066,199,Tiffany Cruz,84.0,Film Daily,2019-02-26
+R067,099,James Reyes,41.0,The Reel View,2022-12-14
+R068,184,Timothy Shaw,80.0,The Reel View,2017-06-24
+R069,120,Charles Smith,42.0,The Reel View,2022-11-23
+R070,362,Jessica Harris,,Movie Weekly,2018-02-10
+R071,292,Joseph Shah,52.0,Screen Critics,2021-10-05
+R072,290,Elaine Campbell,87.0,Film Daily,2021-05-23
+R073,117,Cindy Wallace,57.0,Cinema Today,2015-04-05
+R074,355,Lisa Hall,83.0,Screen Critics,2015-01-09
+R075,219,John Boone,43.0,The Reel View,2019-07-25
+R076,141,Ashley Rollins,71.0,The Reel View,2015-06-28
+R077,370,Gary Walsh,66.0,Screen Critics,2015-01-22
+R078,201,Jill Logan,,Screen Critics,2023-04-09
+R079,116,Kathleen Crawford,44.0,Cinema Today,2018-09-10
+R080,160,,41.0,Movie Weekly,2015-04-09
+R081,304,Miss Yolanda Jones,93.0,The Reel View,2020-04-23
+R082,123,Terry Thomas,92.0,The Reel View,2017-08-27
+R083,038,Amber Garner,88.0,Film Daily,2021-06-29
+R084,064,,,Film Daily,2022-10-11
+R085,034,Jamie Khan,,Movie Weekly,2017-15-05
+R086,321,Anthony Yang,43.0,Screen Critics,2017-14-05
+R087,206,,54.0,Screen Critics,2021-12-30
+R088,006,Kimberly Craig,67.0,Screen Critics,2018-10-23
+R089,334,Misty Horn,69.0,Screen Critics,2017-02-27
+R090,056,Sylvia Schmidt,44.0,Screen Critics,2017-03-04
+R091,294,Paula White,62.0,Movie Weekly,2021-12-18
+R092,228,Bryan Miller,42.0,Film Daily,2021-07-22
+R093,224,Danielle Drake,62.0,The Reel View,2021-01-25
+R094,398,Mary Cline,78.0,The Reel View,2015-02-03
+R095,266,Christopher Morrison,43.0,Cinema Today,2021-04-10
+R096,028,April Johnson,52.0,Cinema Today,2018-10-30
+R097,097,Vincent Irwin,69.0,Screen Critics,2021-06-27
+R098,290,Natalie Diaz,66.0,The Reel View,2020-02-04
+R099,022,Amber Garcia,80.0,Cinema Today,2020-03-25
+R100,320,Alexandra King,89.0,The Reel View,2019-03-20
+R101,106,Rebecca Bowen,40.0,The Reel View,2017-14-05
+R102,016,Robert Long,68.0,Cinema Today,2023-08-02
+R103,185,,,Cinema Today,2017-06-15
+R104,135,Samantha Ross,75.0,Cinema Today,2015-03-30
+R105,091,Jennifer Johnson PhD,41.0,Cinema Today,2023-10-31
+R106,057,Michael Herring,69.0,Cinema Today,2019-03-06
+R107,339,Rebecca Dennis,91.0,Screen Critics,2022-12-22
+R108,034,Lisa Johnson,48.0,Cinema Today,2019-03-30
+R109,356,John Roberts,80.0,Cinema Today,2023-07-23
+R110,316,Wanda Patrick,58.0,Cinema Today,2015-08-07
+R111,323,James Bradshaw,94.0,Screen Critics,2020-06-25
+R112,108,Julia Johnson,90.0,Screen Critics,2017-15-05
+R113,199,Courtney Bailey,72.0,The Reel View,2020-03-16
+R114,092,Michael Bartlett,84.0,Movie Weekly,2020-07-19
+R115,243,Robert Martin,98.0,Screen Critics,2017-04-28
+R116,113,Douglas Martinez,55.0,Movie Weekly,2019-10-07
+R117,194,Edward Reyes,63.0,The Reel View,2016-07-04
+R118,385,,62.0,Cinema Today,2020-03-20
+R119,263,Brandon Gomez,69.0,Movie Weekly,2020-07-30
+R120,163,Tracey Clark,,Movie Weekly,2022-03-28
+R121,039,Anne Barker,,Screen Critics,2022-03-21
+R122,041,Brad Bridges,46.0,Film Daily,2017-13-05
+R123,280,Peter Garcia,61.0,The Reel View,2023-08-14
+R124,350,Brian Schmidt,78.0,Cinema Today,2023-06-09
+R125,367,Anne Moore,40.0,The Reel View,2018-11-20
+R126,207,Charlotte Allen,88.0,Film Daily,2020-09-30
+R127,390,Tommy Parker,54.0,Cinema Today,2017-05-09
+R128,243,Carol Garcia,75.0,Movie Weekly,2020-03-04
+R129,175,Jack Rodgers,52.0,Movie Weekly,2022-10-29
+R130,214,Ashley Scott,75.0,Film Daily,2021-06-23
+R131,066,Bradley Lane,71.0,The Reel View,2019-09-13
+R132,218,Dawn Garcia,89.0,Screen Critics,2021-08-01
+R133,012,Richard Johnson,,Cinema Today,2018-09-14
+R134,291,Amanda Ramirez,78.0,Screen Critics,2019-04-11
+R135,105,Amy Morgan,,Movie Weekly,2016-03-20
+R136,169,Michael Perry,97.0,The Reel View,2017-13-05
+R137,346,Russell Ayers,,Screen Critics,2017-02-03
+R138,102,,58.0,Cinema Today,2022-05-25
+R139,269,,,Screen Critics,2017-14-05
+R140,211,Amy Diaz,48.0,Screen Critics,2023-05-02
+R141,036,Jeffrey Wiley,53.0,Cinema Today,2018-06-22
+R142,222,Scott Francis II,50.0,Screen Critics,2018-06-25
+R143,301,Anthony Mendoza,69.0,The Reel View,2016-08-07
+R144,229,,91.0,Cinema Today,2021-05-20
+R145,252,Gerald Case,87.0,Film Daily,2020-02-13
+R146,178,Seth Perez,59.0,Movie Weekly,2016-12-18
+R147,213,Dana Wright,86.0,Movie Weekly,2022-05-23
+R148,094,Eric Caldwell,,Film Daily,2016-10-08
+R149,141,Lori Harrison,82.0,Film Daily,2023-02-06
+R150,112,Christopher Johnson,88.0,Screen Critics,2019-02-19
+R151,040,Christopher Mitchell,89.0,The Reel View,2016-11-06
+R152,130,George Daniel,,Film Daily,2017-15-05
+R153,346,Emily Mendoza,87.0,Movie Weekly,2019-06-13
+R154,020,,98.0,Cinema Today,2023-05-25
+R155,238,Nicole Parks,,Screen Critics,2023-01-01
+R156,225,Danielle Nguyen,93.0,Cinema Today,2015-03-15
+R157,311,Shane Holmes,74.0,Movie Weekly,2022-07-13
+R158,391,,68.0,The Reel View,2023-01-05
+R159,018,Lori Owen,68.0,Film Daily,2020-11-11
+R160,329,Lisa Cain,46.0,Movie Weekly,2019-12-24
+R161,027,Donna Anderson,,Movie Weekly,2017-10-19
+R162,192,Mark Richardson,41.0,Movie Weekly,2017-13-05
+R163,173,Nicole Atkins,44.0,Cinema Today,2016-01-31
+R164,341,Christopher Holmes,66.0,Screen Critics,2018-09-01
+R165,166,Madison Torres,53.0,Screen Critics,2019-10-19
+R166,062,Stephanie Le,60.0,Cinema Today,2017-15-05
+R167,162,,54.0,Film Daily,2018-02-14
+R168,333,Sandra Rose,,Cinema Today,2023-08-10
+R169,307,Jennifer Henderson,85.0,Screen Critics,2021-05-20
+R170,088,Stephen Greene,,The Reel View,2022-10-23
+R171,199,Devin Mckenzie,84.0,Cinema Today,2022-02-15
+R172,390,Daniel Rogers,94.0,Movie Weekly,2017-13-05
+R173,312,Stephanie Mason,72.0,Cinema Today,2022-11-26
+R174,007,James Costa,97.0,Film Daily,2023-04-11
+R175,220,Beverly Harris,43.0,Cinema Today,2018-04-29
+R176,104,Joshua Lin,42.0,Cinema Today,2021-09-15
+R177,228,Allison Weaver,57.0,The Reel View,2023-07-12
+R178,021,Tammy Ramirez,81.0,The Reel View,2017-07-27
+R179,376,Alexander Ingram,74.0,Film Daily,2022-06-16
+R180,128,Abigail Knight,54.0,Screen Critics,2020-11-05
+R181,165,Richard Wilson,44.0,Movie Weekly,2017-13-05
+R182,027,Brent Valenzuela,53.0,Cinema Today,2017-15-05
+R183,282,Bill Glass,55.0,Screen Critics,2017-15-05
+R184,240,Benjamin Miranda,55.0,Movie Weekly,2017-10-16
+R185,156,Hannah Acosta,80.0,Cinema Today,2023-10-06
+R186,247,,65.0,Movie Weekly,2019-12-13
+R187,217,Julie Morales,88.0,Cinema Today,2023-11-25
+R188,247,,94.0,Film Daily,2018-05-14
+R189,305,Brian Lyons DVM,51.0,The Reel View,2018-06-06
+R190,233,Tyler Wallace,70.0,Film Daily,2023-01-07
+R191,241,Brett Sawyer,40.0,Film Daily,2023-03-11
+R192,372,Maria Cantrell,66.0,Movie Weekly,2019-03-09
+R193,197,Donna Chen,77.0,Film Daily,2015-06-09
+R194,064,Christopher Hawkins,52.0,Movie Weekly,2023-08-26
+R195,385,Natasha Turner,71.0,The Reel View,2022-04-20
+R196,198,Amy Conley,55.0,Movie Weekly,2017-14-05
+R197,324,Catherine Hunter,,Cinema Today,2020-02-09
+R198,349,Jack Price,77.0,Cinema Today,2017-13-05
+R199,330,Jessica Sullivan,85.0,Screen Critics,2015-11-26
+R200,266,Terry Bryant,50.0,Movie Weekly,2018-05-22
+R201,257,Mary Gallegos,64.0,Screen Critics,2019-08-13
+R202,386,Holly Edwards,45.0,Film Daily,2023-09-17
+R203,177,Ashley Coleman,53.0,Movie Weekly,2015-01-27
+R204,087,Brenda Perez,,Film Daily,2019-09-08
+R205,269,Monique Roberts,67.0,Cinema Today,2017-02-02
+R206,361,Rhonda Moody,72.0,Film Daily,2017-05-20
+R207,096,Tamara Lopez,91.0,Cinema Today,2019-08-02
+R208,226,Rita Ortega,95.0,Cinema Today,2017-13-05
+R209,194,Adam Johnson,,Film Daily,2020-05-11
+R210,249,Ryan Hernandez,43.0,The Reel View,2015-01-30
+R211,341,Alex King,46.0,Cinema Today,2015-01-30
+R212,193,Jeremy Graves,88.0,The Reel View,2020-04-22
+R213,388,Gary Mills,63.0,The Reel View,2017-09-08
+R214,185,Michelle Livingston,43.0,The Reel View,2016-02-15
+R215,002,James Walter,86.0,Cinema Today,2017-13-05
+R216,272,Patrick Molina,92.0,Cinema Today,2021-12-07
+R217,352,Jacqueline Brown,66.0,Cinema Today,2017-15-05
+R218,165,,42.0,The Reel View,2017-08-14
+R219,311,Cynthia Rodriguez,90.0,Film Daily,2020-05-04
+R220,338,Cody Anderson,86.0,Movie Weekly,2017-03-10
+R221,365,Daniel Wilson,76.0,Screen Critics,2017-14-05
+R222,045,Luis Reyes,75.0,Movie Weekly,2020-01-02
+R223,060,Jennifer James,55.0,Cinema Today,2022-05-26
+R224,359,,85.0,Film Daily,2018-08-30
+R225,197,Austin Boyer,56.0,Movie Weekly,2022-07-09
+R226,064,Amy Hammond,80.0,Movie Weekly,2017-15-05
+R227,171,Patricia Garcia,89.0,Screen Critics,2017-14-05
+R228,194,Alexis Fisher,86.0,Movie Weekly,2023-10-21
+R229,288,Kimberly Mendez,54.0,Cinema Today,2018-04-06
+R230,045,Lisa Greene,77.0,Cinema Today,2016-04-20
+R231,294,Jane Ross,64.0,Screen Critics,2018-06-27
+R232,032,Dr. Jessica Kelly,64.0,Movie Weekly,2019-02-04
+R233,348,Kevin Johnson,82.0,Screen Critics,2016-03-12
+R234,203,,60.0,Cinema Today,2018-04-30
+R235,113,Alyssa Arroyo,78.0,The Reel View,2022-06-18
+R236,360,,72.0,Film Daily,2022-12-03
+R237,294,Jennifer Adams,71.0,The Reel View,2019-03-23
+R238,031,Brian Davis,92.0,Cinema Today,2017-07-10
+R239,359,Cheryl Clark,89.0,Cinema Today,2023-02-27
+R240,201,Jonathan Alvarez,98.0,Cinema Today,2021-02-22
+R241,201,Jacqueline Hall,62.0,Movie Weekly,2020-12-02
+R242,373,Erik Thomas,52.0,Screen Critics,2016-06-20
+R243,166,Benjamin Smith,91.0,Film Daily,2022-12-16
+R244,156,Larry Brooks,48.0,Movie Weekly,2018-04-07
+R245,075,Alexander Green,52.0,Film Daily,2021-06-15
+R246,053,David Chandler,49.0,Movie Weekly,2019-10-16
+R247,348,Lauren Bender,46.0,The Reel View,2017-01-05
+R248,027,Tony Wright,61.0,Screen Critics,2016-08-31
+R249,322,Jeremy Campbell,47.0,Cinema Today,2018-05-24
+R250,353,John Zamora,87.0,Movie Weekly,2023-12-02
+R251,344,Deborah Hammond DVM,95.0,Movie Weekly,2022-04-29
+R252,228,Nicole Yates,45.0,Film Daily,2022-07-02
+R253,261,Diana Flynn,76.0,Movie Weekly,2023-05-11
+R254,049,Emily Bailey,70.0,Movie Weekly,2016-05-27
+R255,051,Travis Jones,95.0,Screen Critics,2022-11-10
+R256,011,Joseph Peterson,90.0,Screen Critics,2020-10-26
+R257,300,Christopher Avila,81.0,Film Daily,2017-04-29
+R258,338,Douglas Pierce,78.0,Cinema Today,2017-14-05
+R259,161,Joshua Jones,53.0,Cinema Today,2017-14-05
+R260,386,,72.0,The Reel View,2021-02-07
+R261,088,Christopher Davis,40.0,Cinema Today,2020-10-28
+R262,151,Robert Pham,76.0,Movie Weekly,2020-11-10
+R263,181,Beverly Frank,84.0,Film Daily,2015-07-03
+R264,122,,94.0,Cinema Today,2021-10-02
+R265,283,Marissa Smith,48.0,Screen Critics,2021-03-02
+R266,131,Jenna Ewing,50.0,Movie Weekly,2017-11-07
+R267,347,Michelle Rocha,74.0,Cinema Today,2017-15-05
+R268,138,Elizabeth Bailey,52.0,The Reel View,2022-04-07
+R269,262,Joshua Williams,49.0,The Reel View,2019-11-12
+R270,195,,44.0,The Reel View,2016-03-26
+R271,351,Jeanne Wallace,,Film Daily,2018-09-28
+R272,399,Nicholas Richardson,54.0,The Reel View,2017-14-05
+R273,114,Erika Warren,99.0,Film Daily,2023-03-03
+R274,157,Christopher Foster DDS,46.0,Screen Critics,2021-06-01
+R275,145,Sheri Johnson,97.0,Film Daily,2023-06-07
+R276,200,Mr. Kevin Ferguson,83.0,Screen Critics,2019-07-08
+R277,245,Christian Matthews,83.0,Screen Critics,2022-05-17
+R278,065,Lori Velasquez,57.0,Film Daily,2022-03-03
+R279,190,Megan Sanders,78.0,Movie Weekly,2017-01-19
+R280,225,Daniel Smith,72.0,The Reel View,2019-10-19
+R281,267,Christopher Lopez,92.0,Cinema Today,2015-12-23
+R282,157,Amanda Francis,45.0,Film Daily,2017-13-05
+R283,048,Ashley Robinson,,The Reel View,2020-07-11
+R284,006,Pamela Ortiz,72.0,Cinema Today,2020-10-10
+R285,351,Sarah Anderson,84.0,Film Daily,2021-11-29
+R286,098,Amy Bailey,85.0,Movie Weekly,2023-05-29
+R287,177,Mark Gay,100.0,Screen Critics,2015-06-23
+R288,311,Joseph Bass,99.0,Screen Critics,2016-12-17
+R289,039,Juan Nelson,62.0,Film Daily,2019-04-02
+R290,088,Dr. Sarah Kelly PhD,98.0,Cinema Today,2023-08-06
+R291,061,Kathleen Newman,56.0,Cinema Today,2017-15-05
+R292,292,Justin Carpenter Jr.,99.0,Screen Critics,2015-05-26
+R293,238,Kristen Avila,43.0,The Reel View,2017-14-05
+R294,169,John Tyler,62.0,Cinema Today,2015-02-06
+R295,052,Daniel Taylor,73.0,Screen Critics,2019-08-10
+R296,064,Jillian Rodriguez,,The Reel View,2019-06-08
+R297,192,Krista Walker,51.0,Screen Critics,2016-03-21
+R298,225,Stephanie Long DDS,48.0,The Reel View,2015-01-24
+R299,184,Alan Weaver,47.0,Cinema Today,2016-07-01
+R300,203,Thomas Coleman,42.0,Cinema Today,2020-05-17
+R301,341,Taylor Diaz,71.0,Screen Critics,2022-08-24
+R302,366,Tracy Peterson,89.0,Movie Weekly,2023-04-27
+R303,200,Chase Bailey,90.0,Film Daily,2018-11-10
+R304,257,,43.0,The Reel View,2021-09-11
+R305,378,,58.0,Movie Weekly,2017-14-05
+R306,127,Charles Snyder,51.0,Cinema Today,2016-04-16
+R307,135,Zachary Mitchell,92.0,Movie Weekly,2022-12-03
+R308,053,Elizabeth Carney,51.0,Cinema Today,2021-08-18
+R309,323,Jessica Whitehead,48.0,Movie Weekly,2017-13-05
+R310,075,Jessica Dudley,45.0,Film Daily,2020-11-20
+R311,157,Jamie Gibson,54.0,The Reel View,2015-09-09
+R312,262,James Brock,,Film Daily,2018-02-23
+R313,180,Cheryl Martin,97.0,Film Daily,2015-01-03
+R314,027,Brett Contreras,58.0,Movie Weekly,2021-10-20
+R315,052,Yolanda Abbott,71.0,The Reel View,2016-04-01
+R316,050,Jared Boyd,89.0,Cinema Today,2023-04-25
+R317,186,Dana Anderson,78.0,The Reel View,2018-02-04
+R318,108,Andrew Allen,,Film Daily,2023-04-30
+R319,309,Marcus Solis,98.0,Cinema Today,2019-12-31
+R320,051,,61.0,The Reel View,2023-07-15
+R321,104,Hailey Bell MD,48.0,Cinema Today,2022-12-24
+R322,130,Tara Williams,94.0,Screen Critics,2019-02-08
+R323,230,Julie Schmidt,67.0,Film Daily,2020-11-15
+R324,258,Melissa Gardner,57.0,Cinema Today,2021-05-08
+R325,032,Anthony Hardy,87.0,Movie Weekly,2020-12-20
+R326,263,Margaret Baker,88.0,Screen Critics,2023-09-28
+R327,200,Barbara Lopez,51.0,Film Daily,2017-06-11
+R328,304,Laura Mitchell,90.0,Screen Critics,2022-12-08
+R329,369,Bryce Richardson,54.0,The Reel View,2021-03-11
+R330,061,Todd Nelson,,Cinema Today,2022-03-04
+R331,076,Michael Brown,48.0,The Reel View,2015-07-31
+R332,329,Ryan Phillips,53.0,Screen Critics,2022-04-10
+R333,178,Deborah Yates,60.0,Film Daily,2021-02-27
+R334,136,Lindsay Garza,79.0,The Reel View,2015-08-23
+R335,321,Paige Hughes,54.0,The Reel View,2015-03-06
+R336,276,Christopher Ramirez,100.0,Screen Critics,2023-05-13
+R337,353,Danielle Gallegos,95.0,Screen Critics,2019-12-17
+R338,113,Shannon Lawson,80.0,Movie Weekly,2017-08-07
+R339,374,Antonio Murray,97.0,Movie Weekly,2017-13-05
+R340,236,Shannon Martinez,52.0,Screen Critics,2023-03-07
+R341,093,Crystal Dudley MD,,Cinema Today,2019-06-03
+R342,352,Jane Miller,,Film Daily,2020-02-07
+R343,331,Billy Ross,73.0,Cinema Today,2015-02-18
+R344,309,,47.0,Film Daily,2022-03-24
+R345,023,Cynthia Quinn,57.0,Cinema Today,2021-09-22
+R346,007,Paul Gray,,Film Daily,2018-10-18
+R347,363,,88.0,Screen Critics,2016-10-30
+R348,158,Jennifer Morales,43.0,Screen Critics,2022-01-14
+R349,279,Heather Williams,46.0,Screen Critics,2020-09-26
+R350,213,Patrick White,41.0,Cinema Today,2016-08-26
+R351,181,Kimberly Thompson,96.0,Movie Weekly,2023-01-07
+R352,058,Kelly Lopez,54.0,Film Daily,2018-02-28
+R353,183,,63.0,Film Daily,2021-10-12
+R354,078,Tyler Lewis,78.0,Cinema Today,2016-09-07
+R355,342,Cynthia Webb,58.0,The Reel View,2018-01-15
+R356,256,Bonnie Williams,91.0,Film Daily,2016-08-31
+R357,399,Dorothy Roberts,64.0,Movie Weekly,2023-10-23
+R358,245,Kyle Cook DDS,67.0,The Reel View,2018-08-16
+R359,066,Victoria Rhodes,60.0,Movie Weekly,2022-10-11
+R360,212,Edgar Curtis,48.0,Cinema Today,2021-02-28
+R361,255,Mark Ferguson,74.0,Cinema Today,2021-07-07
+R362,367,Julie Davis,84.0,Cinema Today,2017-08-21
+R363,186,,41.0,The Reel View,2016-07-01
+R364,057,,94.0,Cinema Today,2016-08-13
+R365,283,Brian Mitchell,55.0,Cinema Today,2015-08-17
+R366,383,Robert Jordan,85.0,Cinema Today,2015-04-18
+R367,357,Julie Rose,84.0,Film Daily,2015-10-30
+R368,245,Maria Ferrell,41.0,Cinema Today,2015-11-20
+R369,126,,92.0,Movie Weekly,2017-01-17
+R370,241,Jamie Romero,84.0,The Reel View,2023-02-07
+R371,173,Sean Moore,40.0,The Reel View,2015-09-03
+R372,329,,72.0,Cinema Today,2017-14-05
+R373,349,Denise Lucero,85.0,The Reel View,2020-08-17
+R374,157,Sierra Guerra,50.0,The Reel View,2020-11-06
+R375,194,Cindy Little,53.0,Movie Weekly,2017-06-15
+R376,201,Heather Lee,75.0,Screen Critics,2022-10-07
+R377,240,Desiree Patel,65.0,Movie Weekly,2019-03-02
+R378,332,Charles Gonzalez,46.0,Film Daily,2023-09-25
+R379,172,,74.0,Film Daily,2017-15-05
+R380,006,Dennis Ortiz,75.0,Cinema Today,2015-05-13
+R381,124,Scott Cooper,76.0,Film Daily,2023-11-11
+R382,248,,100.0,The Reel View,2017-14-05
+R383,385,Eric May Jr.,52.0,The Reel View,2023-02-20
+R384,183,Christine Shea,46.0,The Reel View,2023-04-25
+R385,258,Daniel Grant,49.0,Film Daily,2019-04-15
+R386,245,Andrea Fernandez,58.0,Cinema Today,2020-03-11
+R387,041,Beth Simmons,,Cinema Today,2022-08-23
+R388,335,Virginia Herrera,72.0,Screen Critics,2021-10-29
+R389,334,Michael Weeks,68.0,Cinema Today,2019-01-15
+R390,320,Amanda Spencer,97.0,Movie Weekly,2021-11-05
+R391,311,,80.0,Movie Weekly,2017-13-05
+R392,074,Mark Walker,95.0,Film Daily,2020-02-06
+R393,161,Gary Collins,44.0,The Reel View,2018-12-18
+R394,046,,69.0,The Reel View,2017-11-14
+R395,391,Brian Mcgrath,48.0,Film Daily,2020-06-22
+R396,021,Corey Brown,66.0,Screen Critics,2016-06-12
+R397,226,Dylan Church,100.0,The Reel View,2022-08-26
+R398,212,Stephen Dean,96.0,Film Daily,2022-03-22
+R399,030,Eric Barron,92.0,Screen Critics,2017-13-05
+R400,149,Meagan Rogers,94.0,Film Daily,2020-03-08
