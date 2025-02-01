@@ -7,8 +7,8 @@ as I like to call it) plays a crucial role in decision-making.
 In this project, I assumed the role of a Data Analyst at GlowStream Media, a private entertainment company planning to launch a new show by analyzing the trends and performance of blockbuster movies from 2015-2023.
 Unlike typical movies review shows, GlowStream wants to avoid subjective opinions and focus on data-driven insights. They aim to explore themes like box office performance, audience demographics, critical receptions, and streaming platform popularity.
 
-> **_Disclaimer:_** All datasets and reports do not represent any company, institution or country, the datasets are part of a capstone project in Data Analysis with TechCruh Africa 
-> For this project, some numbers of questions were answered using Excel analysis features like pivot table, conditional formatting, etc
+> **_Disclaimer:_** All datasets and reports do not represent any company, institution or country, the datasets are part of a capstone project in Data Analysis with TechCruh Africa
+> For this project,some numbers of questions were answered using Excel analysis features like pivot table, conditional formatting,etc
 
 ### Project Overview
 
@@ -259,7 +259,7 @@ The directors influence on revenue showed the top-grossing films can be linked t
 
 ## Recommendations
 
-Based on the insights I will recommend the following to Glowstream Media;
+Based on the insights I will recommend the following to GlowStream Media;
 
 **1.	Content Strategy:** 
 - GlowStream should prioritize **Drama**, **Romance**, **Comedy**, & **Horror** as they generate the highest revenue and audience engagement
