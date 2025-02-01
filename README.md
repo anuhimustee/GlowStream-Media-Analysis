@@ -1,5 +1,8 @@
 # GlowStream Media Entertainment Analysis
 
+![](https://github.com/anuhimustee/GlowStream-Media-Analysis/blob/main/ReadMe%20Images/Dashboard1.png)
+
+
 ## Introduction
 
 Truth be told, Netflix is one of the biggest streaming platforms out there and they are really making big waves and massive moves. Not just that, the entertainment industry is constantly growing and the most interesting is that data (unprocessed information)
