@@ -149,32 +149,42 @@ Over the years, most movies, regardless of genre, have shown potential for box o
 
 _This suggests that as production budgets increase, box office earnings tend to rise, highlighting the financial impact of investment in filmmaking._
 
-**Movies with Highest Audience Ratings**
-|               Movie Title                |    Top Rating  |
-|----------Military point------|----------10------|
-|------------------------------------------|----------------|
-|------------------------------------------|----------------|
-
-Risk specific treat
-Page Establish
-Article book company
-Art heart provide as
-Attorney south state
-Nor second
-Church herself push house
-Point strong account
-Clearly court return
-Wish here
-Customer pattern message
-Fill edge
+**4. Movies with Highest Audience Ratings**
 
 
+|               Military point           |   Top Ratings  | 
+|----------------------------------------|----------------|
+|           Risk specific treat          |       10       |
+|           Page Establish               |       10       |
+|           Article book company         |       10       |
+|           Art heart provide as         |       10       |
+|           Attorney south state         |       10       |
+|           Nor second                   |       10       |
+|           Church herself push house    |       10       |
+|           Point strong account         |       10       |
+|           Clearly court return         |       10       |
+|           Wish here                    |       10       |
+|           Customer pattern message     |       10       |
+|           Fill edge                    |       10       |
+
+## 5. Box office performance trends over the years? 
+Over the years, most movies, regardless of genre, have shown potential for box office growth. This trend is evident in the graph below.
+2022 recorded the highest box office revenue growth, reaching $57 billion, making it the peak year in the observed period.
 
 
+## 6.	Popular View Platforms for Different Genres
+•	Romance is predominantly watched in cinemas, significantly more than other genres.
+•	Thrillers and Sci-Fi have high engagement on streaming platforms.
+•	Comedy and Action are frequently downloaded, with Action also having notable DVD viewership.
+•	Drama and Horror show a balanced distribution across all platforms.
 
+This suggests that audience preferences vary by genre, influencing distribution strategies GlowStream Media
 
+## 7.	Gender's Distribution by Genre?
+**Men** predominantly watches movies through the services of Glowstream than Woman. However,**Men** predominantly **Action,** **Drama**, and **Comedy**, while **Women** mostly prefer **Romance**, **Thrillers**, and Comedy. This indicates that Comedy appeals to both genders, whereas Action and Romance have more distinct audience preferences. Interestingly, both genders have an equal viewing count for the Horror genre.
 
-
+## 8.	Directors Box Office Average
+The directors influence on revenue showed the top-grossing films can be linked to how well-known the directors were with their established reputations
 
 ---
 
@@ -183,7 +193,8 @@ Fill edge
 Based on the insights I will recommend the following to Glowstream Media;
 
 **1.	Content Strategy:** 
-- GlowStream should prioritize **Drama**, **Romance**, **Comedy**, & **Horror** as they generate the highest revenue and audience engagement
+- Gl
+- owStream should prioritize **Drama**, **Romance**, **Comedy**, & **Horror** as they generate the highest revenue and audience engagement
 - For each of these genre, Glowstream can target respective genders that shows a signifacent inclination toward their services. **Men** predominantly watch **Action**, **Drama**, and **Comedy**, while **"Women"** mostly prefer **Romance**, **Thrillers**, and **Comedy**. This indicates that Comedy appeals to both genders, whereas Action and Romance have more distinct audience preferences.
   
 **2.	Marketing Focus:**
